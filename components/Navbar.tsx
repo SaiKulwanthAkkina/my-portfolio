@@ -21,7 +21,6 @@ export default function Navbar() {
   const sections = [
     "home",
     "about",
-    "internship",
     "skills",
     "projects",
     "education",
@@ -34,7 +33,6 @@ export default function Navbar() {
   const navLinks = [
     { label: "Home", id: "home" },
     { label: "About", id: "about" },
-    { label: "Internship", id: "internship" },
     { label: "Skills", id: "skills" },
     { label: "Projects", id: "projects" },
     { label: "Education", id: "education" },

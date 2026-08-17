@@ -181,10 +181,7 @@ export default function ProjectsSection() {
         'Responsive User Interface',
       ],
       tech: ['React', 'JavaScript', 'Node.js', 'Express.js', 'postgreSQL'],
-      progress: 40,
-      progressLabel: 'In Development',
-      badge: { icon: <Hammer className="w-4 h-4" />, text: 'Currently Building', type: 'building' as const },
-      isDisabled: true,
+      githubUrl: 'https://github.com/SaiKulwanthAkkina/solveNsync'
     },
     {
       title: 'Criconnect',

@@ -215,7 +215,7 @@ const ContactSection = () => {
 
               {/* View Resume Button */}
               <motion.a
-                href="https://drive.google.com/file/d/1_C_BPu2D-N8WFKI9viQ8LnifUvWBu_EU/view?usp=sharing"
+                href="https://drive.google.com/file/d/1ezsJaNCHABAtmRs0ajmgD1s2SYwe8LpG/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.05 }}

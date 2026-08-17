@@ -23,7 +23,6 @@ const AboutSection: React.FC = () => {
   ];
 
   const traits = [
-    { label: "Software Developer Intern", icon: Code2 },
     { label: "B.Tech CSE Student", icon: BookOpen },
     { label: "Fast Learner", icon: Zap },
     { label: "Team Player", icon: Users },

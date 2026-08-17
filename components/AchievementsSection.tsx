@@ -6,7 +6,7 @@ import { Trophy, Code2, Cloud, Brain, Briefcase } from "lucide-react";
 const achievements = [
   {
     icon: Trophy,
-    title: "Top 10 in Smart India Hackathon",
+    title: "Top 10 in internal Smart India Hackathon",
     description: "Internal Evaluation — Digital Mental Health Support System",
     accent: "from-amber-400 to-orange-500",
     iconBg: "bg-amber-500/20 text-amber-400",

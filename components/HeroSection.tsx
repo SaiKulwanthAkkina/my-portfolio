@@ -12,7 +12,6 @@ const HeroSection = () => {
 
   const strings = [
     'Computer Science Student',
-    'Software Developer Intern',
     'Java Developer',
     'Problem Solver',
     'AI Enthusiast',
@@ -191,7 +190,7 @@ const HeroSection = () => {
           variants={itemVariants}
           className="text-lg sm:text-xl md:text-2xl mb-6 neon-text"
         >
-          Software Developer Intern
+          
         </motion.p>
 
         {/* Tagline */}
@@ -219,7 +218,7 @@ const HeroSection = () => {
 
           {/* Download Resume Button */}
           <a
-            href="https://drive.google.com/file/d/1_C_BPu2D-N8WFKI9viQ8LnifUvWBu_EU/view?usp=sharing"
+            href="https://drive.google.com/file/d/1ezsJaNCHABAtmRs0ajmgD1s2SYwe8LpG/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
           >
