@@ -229,21 +229,7 @@ export default function ProjectsSection() {
   tech: ['Python', 'Pandas', 'NumPy', 'Scikit-learn'],
   githubUrl: 'YOUR_GITHUB_REPOSITORY_URL',
 },
-  {
-  title: 'House Price Predictor',
-  category: 'Machine Learning',
-  description:
-    'A machine learning project that predicts house prices based on different property features.',
-  features: [
-    'House Price Prediction',
-    'Data Preprocessing',
-    'Feature Analysis',
-    'Machine Learning Model',
-    'Prediction Results',
-  ],
-  tech: ['Python', 'Pandas', 'NumPy', 'Scikit-learn'],
-  githubUrl: 'https://github.com/SaiKulwanthAkkina/House-Price-Predictor',
-},
+  
   ];
 
   return (
