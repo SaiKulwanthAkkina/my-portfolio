@@ -36,14 +36,7 @@ const achievements = [
     iconBg: "bg-blue-500/20 text-blue-400",
     borderHover: "hover:border-blue-500/40",
   },
-  {
-    icon: Briefcase,
-    title: "Software Developer Intern at Enshire",
-    description: "Gaining hands-on experience in full-cycle software development",
-    accent: "from-emerald-400 to-green-500",
-    iconBg: "bg-emerald-500/20 text-emerald-400",
-    borderHover: "hover:border-emerald-500/40",
-  },
+  
 ];
 
 const containerVariants = {

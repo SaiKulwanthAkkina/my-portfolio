@@ -15,11 +15,10 @@ import {
 } from "lucide-react";
 
 const AboutSection: React.FC = () => {
-  const paragraphs = [
-    "Hi, I'm Sai Kulwanth Akkina, a Computer Science student and Software Developer Intern passionate about technology, programming, and building meaningful software solutions.",
-    "I enjoy learning new technologies, solving problems, and transforming ideas into real-world applications through code.",
-    "Currently pursuing a B.Tech in Computer Science and Engineering while continuously improving my programming, web development, and problem-solving skills.",
-    "My goal is to grow as a skilled developer capable of creating impactful solutions and contributing to innovative technology projects.",
+  const paragraphs = ["Hi, I'm Sai Kulwanth Akkina, a Computer Science student passionate about technology, programming, and building meaningful software solutions.",
+"I enjoy learning new technologies, solving problems, and transforming ideas into real-world applications through code.",
+"Currently pursuing a B.Tech in Computer Science and Engineering while continuously improving my programming, web development, and problem-solving skills.",
+"My goal is to grow as a skilled software developer, create impactful solutions, and contribute to innovative technology projects."
   ];
 
   const traits = [

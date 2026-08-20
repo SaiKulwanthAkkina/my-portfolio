@@ -98,7 +98,7 @@ const ProjectCard = ({
         {/* Features */}
         <div className="mb-6">
           <p className="text-xs font-semibold text-slate-400 mb-3 uppercase tracking-wider">
-            Planned Features
+            Features
           </p>
           <ul className="space-y-2">
             {features.map((feature, idx) => (
@@ -211,9 +211,39 @@ export default function ProjectsSection() {
         'User-Friendly Interface',
       ],
       tech: ['HTML', 'CSS', 'JavaScript'],
-      badge: { icon: <Trophy className="w-4 h-4" />, text: 'Top 10 in Smart India Hackathon', type: 'achievement' as const },
+      badge: { icon: <Trophy className="w-4 h-4" />, text: 'Top 10 in Smart India Internal Hackathon', type: 'achievement' as const },
       githubUrl: 'https://github.com/SaiKulwanthAkkina/SIH',
     },
+    {
+  title: 'House Price Predictor',
+  category: 'Machine Learning',
+  description:
+    'A machine learning project that predicts house prices based on different property features.',
+  features: [
+    'House Price Prediction',
+    'Data Preprocessing',
+    'Feature Analysis',
+    'Machine Learning Model',
+    'Prediction Results',
+  ],
+  tech: ['Python', 'Pandas', 'NumPy', 'Scikit-learn'],
+  githubUrl: 'YOUR_GITHUB_REPOSITORY_URL',
+},
+  {
+  title: 'House Price Predictor',
+  category: 'Machine Learning',
+  description:
+    'A machine learning project that predicts house prices based on different property features.',
+  features: [
+    'House Price Prediction',
+    'Data Preprocessing',
+    'Feature Analysis',
+    'Machine Learning Model',
+    'Prediction Results',
+  ],
+  tech: ['Python', 'Pandas', 'NumPy', 'Scikit-learn'],
+  githubUrl: 'https://github.com/SaiKulwanthAkkina/House-Price-Predictor',
+},
   ];
 
   return (
